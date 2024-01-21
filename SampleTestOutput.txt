@@ -1,0 +1,42 @@
+
+Input: 4 8 7 10 2 3 1 5 9 2
+
+Solution using recursion with memoization:
+0, 1, 0, 1, total value = 11, total weight = 5
+
+Solution based on bottom-up dynamic programming:
+0, 1, 0, 1, total value = 11 , total weight = 5
+
+Solution to the fractional variant:
+0.6, 0.0, 0.0, 1.0, total value = 13.2, total weight = 8.0
+
+Result of the greedy algorithm for the 0-1 variant:
+0.0, 1.0, 0.0, 1.0, total value = 11.0, total weight = 5.0
+
+Input: 4 8 7 10 2 3 1 5 9 2
+
+Solution using recursion with memoization:
+1, total value = 7, total weight = 3
+
+Solution based on bottom-up dynamic programming:
+1, total value = 7 , total weight = 3
+
+Solution to the fractional variant:
+1.0, total value = 7.0, total weight = 3.0
+
+Result of the greedy algorithm for the 0-1 variant:
+1.0, total value = 7.0, total weight = 3.0
+
+Input: 4 8 7 10 2 3 1 5 9 2
+
+Solution using recursion with memoization:
+0, 0, 1, 1, 0, total value = 10, total weight = 12
+
+Solution based on bottom-up dynamic programming:
+0, 0, 1, 1, 0, total value = 10 , total weight = 12
+
+Solution to the fractional variant:
+1.0, 0.0, 0.3333333333333333, 0.0, 0.0, total value = 10.666666666666666, total weight = 12.0
+
+Result of the greedy algorithm for the 0-1 variant:
+1.0, 0.0, 0.0, 0.0, 0.0, total value = 9.0, total weight = 10.0
