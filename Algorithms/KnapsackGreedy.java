@@ -1,3 +1,5 @@
+package Algorithms;
+// Sava Jankovic Knapsack Challenge (GReedy)
 
 import java.util.Arrays;
 

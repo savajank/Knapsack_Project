@@ -1,4 +1,6 @@
-
+package Tests;
+import Algorithms.KnapsackDP;
+import Algorithms.KnapsackGreedy;
 
 public class KnapsackTest {
 	public static void main( String[] args) {
